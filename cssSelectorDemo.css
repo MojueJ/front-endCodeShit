@@ -1,0 +1,8 @@
+.container h1{
+	font-size:16px;
+	background-color: yellow;
+}
+.container ul{
+	color:red;
+	list-style-type:none; /*列表去原点*/
+}
